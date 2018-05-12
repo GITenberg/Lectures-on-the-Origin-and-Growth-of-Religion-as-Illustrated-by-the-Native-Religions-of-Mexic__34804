@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37241'
     url: http://www.gutenberg.org/2009/agents/37241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34804#Lectures-on-the-Origin-and-Growth-of-Religion-as-Illustrated-by-the-Native-Religions-of-Mexic_
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2010-12-31'
 gutenberg_type: Text
